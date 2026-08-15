@@ -1,0 +1,13 @@
+{
+  "name": "no-light-left",
+  "version": "3.1.1",
+  "private": true,
+  "description": "No Light Left static game and private-room WebSocket server",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
